@@ -65,7 +65,6 @@ public class BandTest {
 		}
 	}
 
-
 	@Test
 	public void bandTestC() {
 		test.remove("name");
