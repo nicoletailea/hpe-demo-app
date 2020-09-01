@@ -15,8 +15,8 @@ import java.security.InvalidParameterException;
 public class Band {
 	public int id;
 	public String name = "11";
-	public String logo = " ";
-	public String song = " ";
+	public String logo = "";
+	public String song = "";
 	public int votes = 0;
 
 	public Band(JSONObject json) {
@@ -49,8 +49,8 @@ public class Band {
 		JSONObject r = new JSONObject();
 		r.put("id", id);
 		r.put("name", name);
-		r.put("name", name);
 		r.put("logo", logo);
+		r.put("song", song);
 		r.put("song", song);
 		r.put("votes", votes);
 		return r;
