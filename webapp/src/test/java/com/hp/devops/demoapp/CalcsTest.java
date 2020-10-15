@@ -14,7 +14,7 @@ import static org.junit.Assert.assertTrue;
 public class CalcsTest {
 	////asssggaga
 	//commit.. ..
-	//second note
+	//second note  
 	//commit michael 09-04-2017  test 
 
 
