@@ -11,7 +11,7 @@ import static org.junit.Assert.assertTrue;
  * this is new *asdwe
 =======
  * this is newrgtrdfd
->>>>>>> c00a1ac6278f44ae8e7dbdffc6a6538a717dcf0
+>>>>>>> c00a1ac6278f44ae8e7dbdffc6a6538a717dcf
  */
 public class CalcsTest {
 	////asssggaga
