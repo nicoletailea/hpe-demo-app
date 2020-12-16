@@ -29,7 +29,7 @@ public class CalcsTest {
 
 	@Test
 	public void sub_test_A() {
-		assertEquals(5, Calcs.sub(5, 2));
+		assertEquals(6, Calcs.sub(5, 2));
 	}
 
 	@Test
