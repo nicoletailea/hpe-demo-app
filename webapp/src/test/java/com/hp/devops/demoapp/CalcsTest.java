@@ -34,7 +34,7 @@ public class CalcsTest {
 
 	@Test
 	public void sub_test_B() {
-		assertEquals(0, Calcs.sub(-1, -3));
+		assertEquals(1, Calcs.sub(-1, -3));
 	}
 
 	@Test
