@@ -13,3 +13,4 @@ fdd
 test1
 defects
 sdk test
+bamboo test
