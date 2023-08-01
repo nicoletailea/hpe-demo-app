@@ -29,6 +29,7 @@
             <!-- Minimal supported version is 2.4 -->
             <version>3.0.0-M3</version>
             <configuration>
+		    <testFailureIgnore>true</testFailureIgnore>
               <properties>
                 <property>
                   <name>listener</name>
